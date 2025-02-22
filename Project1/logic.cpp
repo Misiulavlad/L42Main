@@ -29,3 +29,4 @@ int max(int matrix[N][N]) {
 	}
 	return max;
 }
+
